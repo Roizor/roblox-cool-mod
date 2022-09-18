@@ -1,0 +1,11 @@
+{
+    "$rcm": {
+        "format": "1",
+        "keepFiles": true
+    },
+    "arial": "arial_regular.ttf",
+    "arialbd": "arial_bold.ttf",
+    "SourceSansPro-Bold": "sspbold.ttf",
+    "SourceSansPro-Light": "ssplight.ttf",
+    "SourceSansPro-Regular": "sspregular.ttf"
+}
